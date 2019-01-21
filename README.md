@@ -1,5 +1,5 @@
 # Utvecklingsprojekt i Webbutveckling 1
-*Victor Bohmies*
+*Erik Olesen*
 
 ## Bakgrund
 
@@ -8,33 +8,33 @@
 ### Layout
 ### Färgval
 
-##### Bakgrund - DAWN PINK
+##### Bakgrund - A09EA0
 ###### Användningsområde
-###### HEX - #F0E7DC: ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
+###### HEX - A09EA0: ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
 
 ###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
 
-##### Element - DE YORK
+##### Element - 506D8D
 ###### Användningsområde
-###### HEX - #76c187: ![alt-text](https://via.placeholder.com/20/76c187/76c187?Text=%20 "#76c187")
+###### HEX - #506D8D: ![alt-text](https://via.placeholder.com/20/76c187/76c187?Text=%20 "#76c187")
 
 ###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
 
-##### Huvudsaklig färg - VIRIDIAN GREEN
+##### Huvudsaklig färg - 85A1A9
 ###### Användningsområde
-###### HEX - #5f877e: ![alt-text](https://via.placeholder.com/20/5f877e/5f877e?Text=%20 "#5f877e")
+###### HEX - #85A1A9: ![alt-text](https://via.placeholder.com/20/5f877e/5f877e?Text=%20 "#5f877e")
 
 ###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
 
-##### Beteende - CLAY CREEK
+##### Beteende - 517E94
 ###### Användningsområde
-###### HEX - #807e61: ![alt-text](https://via.placeholder.com/20/807e61/807e61?Text=%20 "#807e61")
+###### HEX - #517E94: ![alt-text](https://via.placeholder.com/20/807e61/807e61?Text=%20 "#807e61")
 
 ###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
 
-##### Text -SHARK
+##### Text -36363F
 ###### Användningsområde
-###### HEX - #1a1a21: ![alt-text](https://via.placeholder.com/20/1a1a21/1a1a21?Text=%20 "#1a1a21")
+###### HEX - #36363F: ![alt-text](https://via.placeholder.com/20/1a1a21/1a1a21?Text=%20 "#1a1a21")
 
 ###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
 
