@@ -39,6 +39,7 @@
 ###### RGB - rgb(21,21,25): ![alt-text](https://via.placeholder.com/20/36363F/36363F?Text=%20%20%22#36363F%22 "36363F")
 
 ### Typsnitt
+Open Sans https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans
 ### Mockup
 ### Tillgänglighet
 
