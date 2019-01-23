@@ -16,15 +16,15 @@
 
 ##### Element - 506D8D
 ###### Användningsområde
-###### HEX - #506D8D: ![alt-text](https://via.placeholder.com/20/76c187/76c187?Text=%20 "#76c187")
+###### HEX - #506D8D: ![alt-text](https://via.placeholder.com/20/506D8D/506D8D?Text=%20%20%22#506D8D%22)
 
-###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
+###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/506D8D/506D8D?Text=%20%20%22#506D8D%22)
 
 ##### Huvudsaklig färg - 85A1A9
 ###### Användningsområde
-###### HEX - #85A1A9: ![alt-text](https://via.placeholder.com/20/5f877e/5f877e?Text=%20 "#5f877e")
+###### HEX - #85A1A9: ![alt-text](https://via.placeholder.com/20/85A1A9/85A1A9?Text=%20%20%22#85A1A9%22)
 
-###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
+###### RGB - rgb(52,63,66): ![alt-text](https://via.placeholder.com/20/85A1A9/85A1A9?Text=%20%20%22#85A1A9%22)
 
 ##### Beteende - 517E94
 ###### Användningsområde
@@ -36,7 +36,7 @@
 ###### Användningsområde
 ###### HEX - #36363F: ![alt-text](https://via.placeholder.com/20/36363F/36363F?Text=%20%20%22#36363F%22)
 
-###### RGB - rgb(21,21,25): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
+###### RGB - rgb(21,21,25): ![alt-text](https://via.placeholder.com/20/36363F/36363F?Text=%20%20%22#36363F%22)
 
 ### Typsnitt
 ### Mockup
