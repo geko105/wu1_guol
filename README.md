@@ -28,15 +28,15 @@
 
 ##### Beteende - 517E94
 ###### Användningsområde
-###### HEX - #517E94: ![alt-text](https://via.placeholder.com/20/807e61/807e61?Text=%20 "#807e61")
+###### HEX - #517E94: ![alt-text](https://via.placeholder.com/20/517E94/517E94?Text=%20%20%22#517E94%22)
 
-###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
+###### RGB - rgb(32,49,58): ![alt-text](https://via.placeholder.com/20/517E94/517E94?Text=%20%20%22#517E94%22)
 
 ##### Text -36363F
 ###### Användningsområde
-###### HEX - #36363F: ![alt-text](https://via.placeholder.com/20/1a1a21/1a1a21?Text=%20 "#1a1a21")
+###### HEX - #36363F: ![alt-text](https://via.placeholder.com/20/36363F/36363F?Text=%20%20%22#36363F%22)
 
-###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
+###### RGB - rgb(21,21,25): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
 
 ### Typsnitt
 ### Mockup
