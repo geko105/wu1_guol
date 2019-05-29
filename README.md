@@ -1,9 +1,10 @@
 # Utvecklingsprojekt i Webbutveckling 1
 *Erik Olesen*
-
+ §
 ## Bakgrund
-
+Vår uppgift var att göra en hemsida för en blogg i mitt fall en spelblogg.
 ## Planering
+
 ### Innehåll
 ### Layout
 ### Färgval
